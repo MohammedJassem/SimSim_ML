@@ -1,0 +1,15 @@
+# Data manipulation
+pandas
+numpy
+
+# Machine learning
+scikit-learn
+torch
+
+# Generation
+transformers
+
+# web
+flask 
+uvicorn
+fastapi
